@@ -21,6 +21,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="5dp"
             android:textSize="18sp"
+            android:lines="1"
             tools:text="我的订单"/>
         <SearchView android:id="@+id/bat_title_search"
             android:queryHint="@string/bar_title_query_hint"
